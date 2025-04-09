@@ -1,12 +1,35 @@
-# React + Vite
+# 📝 Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully simple, Markdown-powered note-taking app with voice notes, tagging, pinning, and calendar view — built with **React**, styled with care, and deployed on **GitHub Pages**.
 
-Currently, two official plugins are available:
+[![GitHub Pages](https://img.shields.io/badge/Live-Demo-2ea44f?style=flat&logo=github)](https://plechareas.github.io/Notes/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎨 **Rich Markdown Editing**
+- 🔖 **Tagging System** with color-coded labels
+- 📌 **Pin/Unpin Notes**
+- 🔍 **Search Functionality**
+- 📆 **Calendar View** showing note activity
+- 🎤 **Voice Notes Recorder**
+- 🌙 **Dark/Light Mode Toggle**
+- 💾 **Auto-saving in Local Storage**
+- 📁 Deployed via **GitHub Pages**
+
+---
+
+## 📸 Screenshots
+
+> _Add your own screenshots here by uploading to `/public` or GitHub issue uploads_
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone git@github.com:Plechareas/Notes.git
+cd Notes
