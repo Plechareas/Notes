@@ -22,7 +22,7 @@ A beautifully simple, Markdown-powered note-taking app with voice notes, tagging
 
 ## 📸 Screenshots
 
-> _Add your own screenshots here by uploading to `/public` or GitHub issue uploads_
+![Screenshot 1](public/screenshot.png)
 
 ---
 
